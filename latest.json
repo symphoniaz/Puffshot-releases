@@ -1,0 +1,14 @@
+{
+  "version": "0.53.0",
+  "url": "https://raw.githubusercontent.com/symphoniaz/Puffshot-releases/main/Puffshot-Setup-0.53.0.exe",
+  "sha256": "cad238b75688ff2f71a548bd85fe610a8cb13a079d8131d517dce8c6383682fa",
+  "size": 97380970,
+  "notesTh": "ร้านค้า NPC ตั้งของขายได้, GM ปรับเวลาเกิดบอส / EXP / บาลานซ์, ได้ 10 เพชรทุก 10 เลเวล, ทุกแมพแบ่งเป็นห้องพร้อมห้องบอส, ฉาก Sakura ใหม่",
+  "notesEn": "NPC shops with their own goods, GM boss respawn / EXP / balance controls, 10 gems every 10 levels, rooms and a boss room on every map, new Sakura backgrounds",
+  "date": "2026-11-14",
+  "android": {
+    "url": "https://raw.githubusercontent.com/symphoniaz/Puffshot-releases/main/Puffshot-0.53.0.apk",
+    "sha256": "39738ec1b294dbd87e23c7d9dae7411dacb14d268be00159342253aab77b5cca",
+    "size": 99836185
+  }
+}
