@@ -1,0 +1,14 @@
+{
+  "version": "0.54.0",
+  "url": "https://github.com/symphoniaz/Puffshot-releases/releases/download/v0.54.0/Puffshot-Setup-0.54.0.exe",
+  "sha256": "b71592acd79a4dddafe6c0fb6097ff9f435a9f2de8a0f8b02f5fdd194a0db9ef",
+  "size": 98580785,
+  "notesTh": "โหมด VS Battle ที่ลานท่าเรือ (ยืนได้ทุกแท่น), Max ถือปืนตามที่ใส่ครบ 8 แบบ, ยากลับเมือง, GM ใส่ปืนทุกแบบ",
+  "notesEn": "VS Battle mode on the harbor arena (every ledge standable), Max holds the equipped gun (all 8), Town Potion, GM gives every gun",
+  "date": "2026-11-14",
+  "android": {
+    "url": "https://github.com/symphoniaz/Puffshot-releases/releases/download/v0.54.0/Puffshot-0.54.0.apk",
+    "sha256": "8a746d5d207fcb262ff12e3fa8f08a128c682ff403493647490dc1b309625687",
+    "size": 101032484
+  }
+}
